@@ -3,9 +3,9 @@
 
 
      $servidor = "localhost";
-     $usuario = "root";//grupomac_club
-     $password = "";//Martina13*
-     $basededatos = "grupomac_club";
+     $usuario = "root";
+     $password = "";
+     $basededatos = "yapo_macer";
      $link;
 
 
